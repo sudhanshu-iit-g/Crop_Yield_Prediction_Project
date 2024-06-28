@@ -3,8 +3,6 @@
 ## Introduction
 This project leverages machine learning algorithms to predict the yield of various crops. The model takes into account factors such as location, weather conditions, and other relevant parameters to provide an accurate yield forecast.
 
-## Installation
-To get started with the project, follow these steps:
 
  **Clone the repository:**
    ```bash
